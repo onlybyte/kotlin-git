@@ -1,2 +1,1 @@
-# Kotlin tutorial
-## for begginer
+# Kotlin tutorial for begginer
