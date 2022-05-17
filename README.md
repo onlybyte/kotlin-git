@@ -1,4 +1,4 @@
-# Basic fundamental of kotlin
+# Kotlin tutorial for begginer
 This project is a collection of basic and some focused tutorials of kotlin.
 Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
